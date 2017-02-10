@@ -8,7 +8,7 @@
     <body>
     <h1>EyeSackBerlin</h1>
     
-    <video scr="https://www.youtube.com/watch?v=L_jWHffIx5E"
+    <video scr="<iframe width="560" height="315" src="https://www.youtube.com/embed/L_jWHffIx5E" frameborder="0" allowfullscreen></iframe>">  
     
     
    
