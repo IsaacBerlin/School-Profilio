@@ -11,5 +11,6 @@
     <br>
     <br>
     <h3>About Me</h3>
+    <p>I am a middleschooler from minnetonka middleschool east.<p>
     
    
