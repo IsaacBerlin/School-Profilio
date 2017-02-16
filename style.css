@@ -2,11 +2,14 @@ body
 {
   
 }
-p
+ul
 {
-  color: purple;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
-h1
+li a
 {
-  
+  display: block;
+  width: 60px;
 }
