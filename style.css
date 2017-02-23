@@ -33,4 +33,10 @@ p
 {
 font-family: fantasy;
 }
+img
+{
+ border-color: black;
+ border-style: solid;
+ border-width: 15px;
+}
 
